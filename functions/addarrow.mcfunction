@@ -1,0 +1,1 @@
+scoreboard players add "§o§7Würfe gesamt" match 1

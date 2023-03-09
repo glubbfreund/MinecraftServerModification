@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Auch Creeper brennen bei Tageslicht, viele Mobs haben Angst vor Haustieren",
+    "name": "StefUNDOlis Mobverhalten",
+    "uuid":"95870f39-1aed-42a7-af48-204bf7ae1e65",
+    "version": [1, 3, 2],
+    "min_engine_version": [1, 19, 50]
+  },
+  "modules":
+    [
+      {
+          "description": "StefUNDOlis Mobverhalten",
+          "type": "data",
+          "uuid": "49104fab-4f97-49b8-8872-bf6c073cbe1d",
+          "version": [1, 3, 2]
+      }
+    ],
+    "dependencies": [
+    ]
+}
