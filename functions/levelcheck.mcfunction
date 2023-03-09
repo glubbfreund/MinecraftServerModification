@@ -120,3 +120,4 @@ execute at @a[lm=117,l=117] run scoreboard players set @p xp 117
 execute at @a[lm=118,l=118] run scoreboard players set @p xp 118
 execute at @a[lm=119,l=119] run scoreboard players set @p xp 119 
 execute at @a[lm=120,l=120] run scoreboard players set @p xp 120
+execute at @a if score @p xp > "§o§8Bisheriger Rekord " xp run scoreboard players operation "§o§8Bisheriger Rekord " xp = @p xp 

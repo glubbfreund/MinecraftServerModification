@@ -1,1 +1,1 @@
-scoreboard players add "§o§7Würfe gesamt" match 1
+scoreboard players add "§o§7Pfeile gesamt" playermatch 1
